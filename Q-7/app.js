@@ -1,0 +1,1 @@
+//Q-7 Binary Search: Write a program to search for a number in a given array using binary search:Binary search is an efficient algorithm for finding an item in a sorted array or a sorted list of items. 
